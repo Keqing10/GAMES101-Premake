@@ -1,5 +1,10 @@
 # GAMES101-Premake
-[![MSBuild](https://github.com/Hinageshi01/GAMES101-Premake/actions/workflows/msbuild.yml/badge.svg?branch=main)](https://github.com/Hinageshi01/GAMES101-Premake/actions/workflows/msbuild.yml)
+[![MSBuild](https://github.com/Keqing10/GAMES101-Premake/actions/workflows/msbuild.yml/badge.svg?branch=main)](https://github.com/Keqing10/GAMES101-Premake/actions/workflows/msbuild.yml)
+
+> **Fork更改**
+> 
+> 新增frame分支保留原始框架，新的修改在main分支中。
+
 
 GAMES101-Premake 是一个使用 Premake5 一键配置 GAMES101 作业运行环境的框架。
 
@@ -73,3 +78,4 @@ GAMES101-Premake 是一个使用 Premake5 一键配置 GAMES101 作业运行环�
 [GAMES101 Spring 2021 作业资源](https://games-cn.org/forums/topic/s2021-games101-zuoyehuizong/)
 
 [作业 0 资源](https://github.com/slicol/Games101-Homework-Win)
+
